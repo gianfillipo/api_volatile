@@ -2,7 +2,7 @@ from OperationalSystem import OperationalSystem
 import os
 
 class Libraries:
-    
+    z
     @staticmethod
     def valid_libraries():
         bibliotecas = ['Str', 'psutil', 'time', 'datetime', 'platform', 'mysql-connector-python', 'pyodbc','sys']
